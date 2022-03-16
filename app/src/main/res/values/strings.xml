@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">AboutMe</string>
+    <string name="name">Berker uySAL</string>
+    <string name="namet">Berker Uysal</string>
+    <string name="yellow_star">Yellow star</string>
+    <string name="nickname">Nick name</string>
+    <string name="long_text">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam ut condimentum eros. Aliquam convallis nulla at lacus accumsan, vel elementum diam tincidunt. Nam magna lectus, ullamcorper id felis sit amet, suscipit tincidunt nunc. Cras at dui ornare, efficitur metus elementum, sagittis mi. Mauris pellentesque metus dui, nec dignissim odio tincidunt id. Aliquam felis velit, blandit et nisi et, efficitur dictum orci. Vestibulum accumsan scelerisque ligula. Quisque at lacus orci.
+
+Mauris tincidunt eros enim, imperdiet varius justo luctus faucibus. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Nulla finibus tempus bibendum. Aliquam quam mi, cursus non nunc vitae, rhoncus facilisis mauris. Aenean elit leo, fermentum nec nunc ac, tincidunt vestibulum ante. Morbi eu elit nibh. Quisque pretium maximus velit nec convallis. Praesent lacinia erat leo, ut porta metus elementum nec. Maecenas auctor, arcu in pretium pharetra, tellus elit tristique dolor, at aliquet felis massa in libero. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Sed mattis orci in tellus ornare pharetra.
+
+In commodo lacus est, vitae finibus tortor interdum nec. Suspendisse rutrum neque augue, eget iaculis velit dignissim dignissim. Nullam in libero ultricies neque pellentesque fringilla. Aenean faucibus egestas metus, eu dictum diam mollis a. Duis eu pretium sem. Nam feugiat orci eu neque ultricies, at volutpat nunc varius. Curabitur urna ipsum, porttitor et dapibus eu, pharetra nec nisi. Donec rutrum diam vitae leo consequat, et consequat ipsum rutrum. Nulla non congue neque.</string>
+</resources>
